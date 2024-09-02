@@ -1,7 +1,7 @@
 <div>
     <h1 align="center">Hi there, I'm Yahir Camargo 👋</h1>
 </div>
-<div align="left">
+<div>
     <p align="left">I'm a university student, I really wanna learn to program, so if you see some programming error, you can tell me whithout problem</p>
 </div>
 
