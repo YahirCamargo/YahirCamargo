@@ -1,5 +1,5 @@
-### Hola/Hi there 👋
-Soy un estudiante de universidad con ganas de aprender a progamar, por lo cual si ven algun error en alguno de mis codigo, pueden informarme sin problema alguno/I'm a university student, I really wanna learn to program, so if you see some programming error, you can tell me whithout problem
+### Hi there 👋
+I'm a university student, I really wanna learn to program, so if you see some programming error, you can tell me whithout problem
 
 ⚡ Fun fact: When I was 13 years-old I didn't idea to how use a computer, I'm still learning, but doing my best every day
 
