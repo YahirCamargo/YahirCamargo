@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+    <h1>Hi there, I'm Yahir Camargo 👋</h1>
+</div>
 I'm a university student, I really wanna learn to program, so if you see some programming error, you can tell me whithout problem
 
 ⚡ Fun fact: When I was 13 years-old I didn't idea to how use a computer, I'm still learning, but doing my best every day
