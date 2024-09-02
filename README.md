@@ -5,7 +5,7 @@
     <p align="left">I'm a university student, I really wanna learn to program, so if you see some programming error, you can tell me whithout problem</p>
 </div>
 <div>
-    <img src="https://i.pinimg.com/originals/cb/98/a9/cb98a91991b60a91f6c854306c2f5cac.jpg" height="100">
+    <img src="https://i.pinimg.com/originals/cb/98/a9/cb98a91991b60a91f6c854306c2f5cac.jpg" height="400">
 </div>
 
 ⚡ Fun fact: When I was 13 years-old I didn't idea to how use a computer, I'm still learning, but doing my best every day
