@@ -1,13 +1,13 @@
-# Hola, soy Yahir 👋
+# Hola, soy Yahir
 
-🎓 Estudiante de Ingeniería en Sistemas
-💻 Interesado en desarrollo Backend, Inteligencia Artificial y Machine Learning
-🌱 Actualmente aprendiendo y mejorando mis habilidades en Python, FastAPI, Java y Spring Boot
-🚀 Buscando crecer profesionalmente a través de proyectos y experiencia real en desarrollo de software
+Estudiante de Ingeniería en Sistemas
+Interesado en desarrollo Backend, Inteligencia Artificial y Machine Learning
+Actualmente aprendiendo y mejorando mis habilidades en Python, FastAPI, Java y Spring Boot
+Buscando crecer profesionalmente a través de proyectos y experiencia real en desarrollo de software
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 ### Lenguajes
 - Java
@@ -37,7 +37,7 @@
 
 ---
 
-## 📚 Actualmente
+## Actualmente
 
 - Cursando los últimos semestres de Ingeniería en Sistemas.
 - Desarrollando proyectos para fortalecer mi portafolio.
@@ -46,7 +46,7 @@
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Conseguir experiencia laboral en desarrollo de software.
 - Especializarme en tecnologías con alta demanda y proyección futura.
@@ -55,7 +55,7 @@
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - GitHub: https://github.com/YahirCamargo
 - LinkedIn: https://www.linkedin.com/in/yahir-camargo-9a316b213/
