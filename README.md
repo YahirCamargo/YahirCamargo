@@ -1,23 +1,61 @@
-<div>
-    <h1 align="center">Hi there, I'm Yahir Camargo 👋</h1>
-</div>
-<div>
-    <p text-align="left">I'm a university student, I really wanna learn to program, so if you see some programming error, you can tell me whithout problem</p>
-</div>
+# Hola, soy Yahir 👋
 
-⚡ Fun fact: When I was 13 years-old I didn't idea to how use a computer, I'm still learning, but doing my best every day
+🎓 Estudiante de Ingeniería en Sistemas
+💻 Interesado en desarrollo Backend, Inteligencia Artificial y Machine Learning
+🌱 Actualmente aprendiendo y mejorando mis habilidades en Python, FastAPI, Java y Spring Boot
+🚀 Buscando crecer profesionalmente a través de proyectos y experiencia real en desarrollo de software
 
-<!--
-**YahirCamargo/YahirCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lenguajes
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Backend
+- Spring Boot
+- FastAPI
+- APIs REST
+
+### Frontend
+- Vue.js
+- React Native
+- HTML
+- CSS
+
+### Bases de datos
+- MySQL
+- PostgreSQL
+
+### Herramientas
+- Git
+- GitHub
+- Docker (aprendiendo)
+
+---
+
+## 📚 Actualmente
+
+- Cursando los últimos semestres de Ingeniería en Sistemas.
+- Desarrollando proyectos para fortalecer mi portafolio.
+- Explorando áreas relacionadas con Inteligencia Artificial y Machine Learning.
+- Buscando oportunidades para adquirir experiencia profesional como desarrollador.
+
+---
+
+## 🎯 Objetivos
+
+- Conseguir experiencia laboral en desarrollo de software.
+- Especializarme en tecnologías con alta demanda y proyección futura.
+- Construir proyectos útiles que resuelvan problemas reales.
+- Seguir aprendiendo constantemente.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/YahirCamargo
+- LinkedIn: https://www.linkedin.com/in/yahir-camargo-9a316b213/
